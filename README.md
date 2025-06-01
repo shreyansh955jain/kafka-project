@@ -21,9 +21,22 @@ Apache Kafka
  You can use any dataset, we are mainly interested in operation side of Data Engineering (building data pipeline)
 
 
-![output] ![Screenshot from 2025-06-01 10-36-37](https://github.com/user-attachments/assets/dd016895-1dcc-4cd8-916b-2dc9312fffd5)
+![Screenshot from 2025-06-01 22-04-54](https://github.com/user-attachments/assets/dcf56560-6b1b-4bba-8cc4-7216220a3069)
 
-![Screenshot from 2025-06-01 10-36-50](https://github.com/user-attachments/assets/81693280-f879-4b64-8f53-184fbf029334)
+![Screenshot from 2025-06-01 22-05-03](https://github.com/user-attachments/assets/252efc59-97b2-44e6-865e-1bec0b22dbd1)
+
+![Screenshot from 2025-06-01 22-05-10](https://github.com/user-attachments/assets/a1ebf709-7ff4-4470-8ca0-23613d2c8c25)
+![Screenshot from 2025-06-01 22-05-14](https://github.com/user-attachments/assets/4ce13199-02e2-4fa8-88d1-3b74e3dad42a)
+![Screenshot from 2025-06-01 22-05-50](https://github.com/user-attachments/assets/a9610c1b-b7a4-4531-b259-89c49f26ddd3)
+![Screenshot from 2025-06-01 22-06-08](https://github.com/user-attachments/assets/62e26be0-b887-4bc2-8ddb-f689146a1c60)
+![Screenshot from 2025-06-01 22-06-54](https://github.com/user-attachments/assets/fab3879f-99b7-40af-9744-5068e671d6d6)
+![Screenshot from 2025-06-01 22-07-08](https://github.com/user-attachments/assets/38716949-0d31-4beb-b63c-e91dc058b522)
+![Screenshot from 2025-06-01 22-07-54](https://github.com/user-attachments/assets/8cf0d954-2396-4f1c-864f-e7d951084da4)
+
+
+
+
+
 
 
 
