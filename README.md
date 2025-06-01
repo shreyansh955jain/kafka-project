@@ -21,3 +21,10 @@ Apache Kafka
  You can use any dataset, we are mainly interested in operation side of Data Engineering (building data pipeline)
 
 
+![output] ![Screenshot from 2025-06-01 10-36-37](https://github.com/user-attachments/assets/dd016895-1dcc-4cd8-916b-2dc9312fffd5)
+
+![Screenshot from 2025-06-01 10-36-50](https://github.com/user-attachments/assets/81693280-f879-4b64-8f53-184fbf029334)
+
+
+
+
