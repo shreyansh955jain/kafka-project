@@ -21,7 +21,7 @@ Apache Kafka
  You can use any dataset, we are mainly interested in operation side of Data Engineering (building data pipeline)
 
  <a href="[https://www.youtube.com/watch?v=VIDEO_ID](https://youtu.be/uh41kxFwzYQ)" target="_blank">
-  <img src="https://img.youtube.com/vi/VIDEO_ID/0.jpg" alt="Watch the video" width="500"/>
+  <img src="[https://img.youtube.com/vi/VIDEO_ID/0.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fwhatnot-engineering%2Fscaling-our-data-stack-with-kafka-and-real-time-stream-processing-56554dcbb0fc&psig=AOvVaw3Llai5n0lGXk1szqLyu21_&ust=1748883820396000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJj-2ora0I0DFQAAAAAdAAAAABAE)" alt="Watch the video" width="500"/>
 </a>
 
 
