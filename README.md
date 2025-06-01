@@ -20,6 +20,11 @@ Apache Kafka
  
  You can use any dataset, we are mainly interested in operation side of Data Engineering (building data pipeline)
 
+ <a href="[https://www.youtube.com/watch?v=VIDEO_ID](https://youtu.be/uh41kxFwzYQ)" target="_blank">
+  <img src="https://img.youtube.com/vi/VIDEO_ID/0.jpg" alt="Watch the video" width="500"/>
+</a>
+
+
 
 ![Screenshot from 2025-06-01 22-04-54](https://github.com/user-attachments/assets/dcf56560-6b1b-4bba-8cc4-7216220a3069)
 
